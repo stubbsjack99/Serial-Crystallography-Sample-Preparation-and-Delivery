@@ -46,3 +46,13 @@ Tape Drives
 
 Microfluidics
 
+Tremlett, C.J., Stubbs, J., Stuart, W.S., Shaw Stewart, P.D., West, J., Orville, A.M., Tews, I., Harmer, N.J., 2025. Small but mighty: the power of microcrystals in structural biology. IUCrJ 12, 262–279. https://doi.org/10.1107/S2052252525001484
+
+Barends, T.R.M., Stauch, B., Cherezov, V., Schlichting, I., 2022. Serial femtosecond crystallography. Nat Rev Methods Primers 2, 1–24. https://doi.org/10.1038/s43586-022-00141-7 
+
+Grünbein, M.L., Nass Kovacs, G., 2019. Sample delivery for serial crystallography at free-electron lasers and synchrotrons. Acta Crystallogr D Struct Biol 75, 178–191. https://doi.org/10.1107/s205979831801567x
+
+Zhao, F.-Z., Zhang, B., Yan, E.-K., Sun, B., Wang, Z.-J., He, J.-H., Yin, D.-C., 2019. A guide to sample delivery systems for serial crystallography. The FEBS Journal 286, 4402–4417. https://doi.org/10.1111/febs.15099
+
+Cheng, R., 2020. Towards an Optimal Sample Delivery Method for Serial Crystallography at XFEL. Crystals 10, 215. https://doi.org/10.3390/cryst10030215
+

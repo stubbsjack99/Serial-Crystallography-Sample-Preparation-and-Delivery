@@ -2,3 +2,14 @@
 
 # Sample preparation
 
+# Sample Delivery
+Jets
+
+Fixed Targets
+- Aperture-aligned
+- Directed-raster
+
+Tape Drives
+
+Microfluidics
+

@@ -5,10 +5,11 @@ This repository provides protocols, methods, and resources for sample preparatio
 Information on sample preparation and delivery workflows for experiments at the **MicroMAX beamline (MAX IV)** can be found [here](MicroMAX.md)
 
 <p align="center">
-  <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_experimental_station.png" width="400">
+  <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_exterior_1140x420_acf_cropped.jpeg" width="45%">
+  <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_experimental_station.png" width="45%">
 </p>
 
-*Figure: Experimental station layout at the MicroMAX beamline.  
+*Figure: Exterior view and experimental station of the MicroMAX beamline at MAX IV Laboratory.  
 Source: MAX IV Laboratory, https://www.maxiv.lu.se/beamlines/micromax*
 
 ## Licence

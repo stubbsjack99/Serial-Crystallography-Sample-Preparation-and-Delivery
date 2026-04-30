@@ -25,7 +25,7 @@ You may share and adapt the material for non‑commercial purposes, with
 attribution. Commercial use is not permitted without explicit permission from
 the authors.
 
-# Sample preparation
+# Sample preparation literature
 Stubbs, J., Tremlett, C.J., Waitman, A., Harmer, N.J., Orville, A.M., Tews, I., Kolek, S. and Shaw Stewart, P.D., 2026. Automated microbatch-under-oil phase diagrams to rationalize serial crystallography sample preparation. IUCrJ, 13(2). https://doi.org/10.1107/S2052252526000448 
 
 Tremlett, C.J., Stubbs, J., Stuart, W.S., Shaw Stewart, P.D., West, J., Orville, A.M., Tews, I. and Harmer, N.J., 2025. Small but mighty: the power of microcrystals in structural biology. IUCrJ, 12(3). https://doi.org/10.1107/S2052252525001484 
@@ -60,18 +60,7 @@ Kupitz et al., 2014. Microcrystallization techniques for serial femtosecond crys
 
 Tenboer, J., Basu, S., Zatsepin, N., Pande, K., Milathianaki, D., Frank, M., Hunter, M., Boutet, S., Williams, G.J., Koglin, J.E. and Oberthuer, D., 2014. Time-resolved serial crystallography captures high-resolution intermediates of photoactive yellow protein. Science, 346(6214), pp.1242-1246. https://doi.org/10.1126/science.1259357 
 
-# Sample Delivery
-Jets
-
-Fixed Targets
-- Aperture-aligned
-- Directed-raster
-
-Tape Drives
-
-Microfluidics
-
-# Sample Delivery Reviews
+# Sample Delivery Literature
 
 Tremlett, C.J., Stubbs, J., Stuart, W.S., Shaw Stewart, P.D., West, J., Orville, A.M., Tews, I., Harmer, N.J., 2025. Small but mighty: the power of microcrystals in structural biology. IUCrJ 12, 262–279. https://doi.org/10.1107/S2052252525001484
 

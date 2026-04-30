@@ -2,6 +2,8 @@
 
 This repository provides protocols, methods, and resources for sample preparation and delivery in serial crystallography experiments.
 
+For  details on sample preparation and sample delivery at MicroMAX (MAX IV) go to MicroMAX.md
+
 ## Licence
 
 This work is licensed under the **Creative Commons Attribution‑NonCommercial 4.0

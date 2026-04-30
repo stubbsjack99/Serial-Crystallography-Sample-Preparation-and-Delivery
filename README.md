@@ -2,8 +2,8 @@
 
 This repository provides protocols, methods, and resources for sample preparation and delivery in serial crystallography experiments.
 
-Information on sample preparation and delivery workflows for experiments at the **MicroMAX beamline (MAX IV)** can be found here.
-``
+Information on sample preparation and delivery workflows for experiments at the **MicroMAX beamline (MAX IV)** can be found [here](MicroMAX.md)
+
 ## Licence
 
 This work is licensed under the **Creative Commons Attribution‑NonCommercial 4.0

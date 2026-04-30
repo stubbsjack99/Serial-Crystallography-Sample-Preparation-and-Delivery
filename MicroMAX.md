@@ -26,6 +26,6 @@ The sample environment and preparation laboratories are equipped with the follow
 
 - Fixed Targets
 
-- TapeDrives
+- Tapedrive
 
 - Microfluidics

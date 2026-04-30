@@ -1,5 +1,7 @@
 # Serial Crystallography Sample Preparation and Delivery
 
+This repository provides protocols, methods, and resources for sample preparation and delivery in serial crystallography experiments.
+
 ## Licence
 
 This work is licensed under the **Creative Commons Attribution‑NonCommercial 4.0

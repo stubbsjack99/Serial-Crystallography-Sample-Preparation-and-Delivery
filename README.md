@@ -6,7 +6,7 @@ Information on sample preparation and delivery workflows for experiments at the 
 
 <p align="center">
   <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_exterior_1140x420_acf_cropped.jpeg" width="50%">
-  <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_experimental_station.png" width="50%">
+  <img src="https://www.maxiv.lu.se/wp-content/uploads/2022/04/MicroMAX_experimental_station.png" width="45%">
 </p>
 
 *Figure: Exterior view and experimental station of the MicroMAX beamline at MAX IV Laboratory.  

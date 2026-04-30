@@ -1,4 +1,6 @@
-# MicroMAX Sample Preparation
+# MicroMAX
+
+# Sample Preparation
 
 The sample environment and preparation laboratories are equipped with the following instruments:
 
@@ -18,7 +20,7 @@ Offline injector setup, currently for HVE and Serial-X injectors, can be adapted
 
 The prep-lab is optimized and equipped for preparing samples in low-light of different spectrum or dark conditions.
 
-# MicroMAX Sample Delivery
+# Sample Delivery
 
 High Viscosity Extruder (HVE)
 

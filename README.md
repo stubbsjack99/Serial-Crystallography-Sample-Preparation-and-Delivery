@@ -1,5 +1,14 @@
 # Serial Crystallography Sample Preparation and Delivery
 
+## Licence
+
+This work is licensed under the **Creative Commons Attribution‑NonCommercial 4.0
+International (CC BY‑NC 4.0)** licence.
+
+You may share and adapt the material for non‑commercial purposes, with
+attribution. Commercial use is not permitted without explicit permission from
+the authors.
+
 # Sample preparation
 Stubbs, J., Tremlett, C.J., Waitman, A., Harmer, N.J., Orville, A.M., Tews, I., Kolek, S. and Shaw Stewart, P.D., 2026. Automated microbatch-under-oil phase diagrams to rationalize serial crystallography sample preparation. IUCrJ, 13(2). https://doi.org/10.1107/S2052252526000448 
 
